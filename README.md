@@ -3,7 +3,7 @@ Sumber Dataset:
 - https://www.bps.go.id/id
 - https://opendata.jabarprov.go.id/id
 
-⚠️ Disclaimer
+⚠️ _Disclaimer_
 
 Proyek ini merupakan hasil penelitian independen yang disusun sebagai bagian dari pemenuhan tugas akademis. Data yang digunakan telah dipastikan keaslian dan keakuratannya sesuai dengan periode penelitian.
 
